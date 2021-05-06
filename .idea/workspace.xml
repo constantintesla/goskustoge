@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e17524f-cdde-4e51-adb0-31b4d8541f88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/goskustoge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.0.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_test.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kustoge.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pass.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/goskustoge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/goskustoge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,10 +135,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.new_db" />
-      <item itemvalue="Python.pashka" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.scan_Test" />
+      <item itemvalue="Python.pashka" />
     </list>
     <recent_temporary>
       <list>
@@ -169,5 +158,16 @@
       <updated>1619323608355</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
